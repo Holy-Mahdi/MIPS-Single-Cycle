@@ -1,0 +1,17 @@
+# ModelSim / QuestaSim
+work/
+transcript
+*.wlf
+*.vstf
+*.vmake
+
+# Vivado
+.Xil/
+*.log
+*.jou
+*.str
+*.dir/
+
+# OS files
+Thumbs.db
+.DS_Store

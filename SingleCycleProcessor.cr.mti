@@ -1,0 +1,96 @@
+C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/SignExtend.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/SignExtend.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module sign_extend_16to32
+
+Top level modules:
+	sign_extend_16to32
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Circuit.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Circuit.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MIPS_Single_Cycle
+
+Top level modules:
+	MIPS_Single_Cycle
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/PC.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/PC.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/ShiftLeft2.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/ShiftLeft2.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Shift_Left_2_Jump
+-- Compiling module Shift_Left_2_Branch
+
+Top level modules:
+	Shift_Left_2_Jump
+	Shift_Left_2_Branch
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/InstructionMemory.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/InstructionMemory.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/DataMemory.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/DataMemory.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/ALUControl.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/ALUControl.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_Control_Unit
+
+Top level modules:
+	ALU_Control_Unit
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Mux2to1.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Mux2to1.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mux2to1_32bit
+
+Top level modules:
+	mux2to1_32bit
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Control.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Control.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Main_Control
+
+Top level modules:
+	Main_Control
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/TestBanch.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/TestBanch.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_MIPS
+
+Top level modules:
+	tb_MIPS
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Registers.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Registers.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Adder.v {1 {vlog -work work -vopt -stats=none C:/Users/moham/OneDrive/Desktop/SingleCycleProcessor/Adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PC_Adder
+-- Compiling module Branch_Adder
+
+Top level modules:
+	PC_Adder
+	Branch_Adder
+
+} {} {}}
