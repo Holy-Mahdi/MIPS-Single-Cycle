@@ -4,6 +4,7 @@ transcript
 *.wlf
 *.vstf
 *.vmake
+*.bak
 
 # Vivado
 .Xil/
